@@ -11,6 +11,11 @@
      <label for="address"><b>Enter Address</b></label>
     <input type="text" placeholder="Enter Full address" name="address" id="address" required>
     <br>
+    
+
+ <label for="address"><b>Enter Address</b></label>
+    <input type="text" placeholder="Enter Full address" name="address" id="address" required>
+    <br>
 
     
     <label for="mobile"><b>Enter mobile</b></label>
